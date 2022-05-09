@@ -4,9 +4,9 @@ Hi 👋 My name is Emanuele Picariello
 Trying to become a professional Penetration Tester
 --------------------------------------------------
 
-***Computer Engineer graduated at Università degli Studi Roma Tre.*** <\br>
-***RHCSA - Red Hat Certified System Administrator.*** <\br>
-Currently working with Accenture as an Application Development Analyst. <\br>
+***Computer Engineer graduated at Università degli Studi Roma Tre.*** <br />
+***RHCSA - Red Hat Certified System Administrator.*** <br/>
+Currently working with Accenture as an Application Development Analyst. <br/>
 Willing to become a professional ***Penetration Tester.***
 
 * 🌍  I'm based in Italia
