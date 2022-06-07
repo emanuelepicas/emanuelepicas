@@ -9,7 +9,7 @@ Trying to become a professional Penetration Tester
 Currently working with Accenture as an Application Development Analyst. <br/>
 Willing to become a professional ***Penetration Tester.***
 
-* 🌍  I'm based in Italia
+* 🌍  I'm based in Italy
 * ✉️  You can contact me at [emanuelepicariello97@gmail.com](mailto:emanuelepicariello97@gmail.com)
 * 🚀  I'm currently working on [Various topic related to Security / Pentesting / How to build up a decent YouTube Channel](http://www.youtube.com/channel/UCx0vGbOo3fdwTK0YqcrVQVw)
 * 🧠  I'm learning Offensive Security
