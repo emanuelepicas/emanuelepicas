@@ -5,7 +5,7 @@
 
 ***Computer Engineer graduated at Università degli Studi Roma Tre.*** <br />
 ***RHCSA - Red Hat Certified System Administrator.*** <br/>
-Currently working with Accenture as an Security Delivery Analyst. <br/>
+Currently working with Accenture as a Security Delivery Analyst. <br/>
 Willing to become a professional ***Red Teamer/Security researcher.***
 
 * 🌍 Actually I'm based in Italy
