@@ -6,7 +6,7 @@
 ***Burp Suite Certified Practitioner (BSCP)*** <br />
 ***eLearnSecurity Web Application Application Tester (eWPT)*** <br />
 ***eLearnSecurity Web Application Application Tester eXtreme (eWPTx)*** <br />
-***Red Hat Certified System Administrator (RHCSA)*** <br />
+***Red Hat Certified System Administrator (RHCSA)*** <br/> <br/>
 Currently working with Secura B.V. as a Security Analyst. <br/>
 Willing to become a professional ***Red Teamer/Security researcher/Nation State Actor.***
 
