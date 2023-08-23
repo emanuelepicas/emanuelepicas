@@ -2,13 +2,15 @@
 <br />
  👋 My name is Emanuele Picariello
 ====================================
+***Bachelor's Degree in Computer Engineering*** <br />
+***Burp Suite Certified Practitioner (BSCP)*** <br />
+***eLearnSecurity Web Application Application Tester (eWPT)*** <br />
+***eLearnSecurity Web Application Application Tester eXtreme (eWPTx)*** <br />
+***Red Hat Certified System Administrator (RHCSA)*** <br />
+Currently working with Secura B.V. as a Security Analyst. <br/>
+Willing to become a professional ***Red Teamer/Security researcher/Nation State Actor.***
 
-***Computer Engineer graduated at Università degli Studi Roma Tre.*** <br />
-***RHCSA - Red Hat Certified System Administrator.*** <br/>
-Currently working with Accenture as a Security Delivery Analyst. <br/>
-Willing to become a professional ***Red Teamer/Security researcher.***
-
-* 🌍 Actually I'm based in Italy
+* 🌍 Actually I'm based in the Netherlands
 * ✉  You can contact me at [emanuelepicariello97@gmail.com](mailto:emanuelepicariello97@gmail.com)
 * 🚀  I'm currently working on [Various topic related to Security / Pentesting / How to build up a decent YouTube Channel](http://www.youtube.com/channel/UCx0vGbOo3fdwTK0YqcrVQVw)
 * 🧠  I'm learning Offensive Security, though practice, courses and certifications
