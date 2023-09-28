@@ -16,7 +16,3 @@ Willing to become a professional ***Red Teamer/Security researcher/Nation State 
 * 🧠  I'm learning Offensive Security, through work, practice, courses and certifications
 * 🤝  I'm open to start a career on Red Teaming, Security research
 * ⚡  Trying to find the best journey to become a worldwide professional Red Teamer
-
-```bash
-sh ./in_progress $OSCP
-```
