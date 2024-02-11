@@ -3,7 +3,7 @@
  👋 My name is Emanuele Picariello
 ====================================
 ***Bachelor's Degree in Computer Engineering*** <br />
-***Offsec Certified Professional (OSCP)*** <br/> <br/>
+***Offsec Certified Professional (OSCP)*** <br/>
 ***Burp Suite Certified Practitioner (BSCP)*** <br />
 ***eLearnSecurity Web Application Application Tester (eWPT)*** <br />
 ***eLearnSecurity Web Application Application Tester eXtreme (eWPTx)*** <br />
