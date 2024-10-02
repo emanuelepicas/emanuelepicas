@@ -9,8 +9,7 @@
 ***eLearnSecurity Web Application Application Tester (eWPT)*** <br />
 ***eLearnSecurity Web Application Application Tester eXtreme (eWPTx)*** <br />
 ***Red Hat Certified System Administrator (RHCSA)*** <br/> <br/>
-Currently working with **Secura B.V. as a Security Analyst**. <br/>
-Willing to become a professional ***Security researcher/Nation State Actor.***
+***Certified Red Team Operator (CRTO)*** <br/> <br/>
 
 * 🌍 Actually I'm based in the Netherlands
 * ✉  You can contact me at [emanuelepicariello97@gmail.com](mailto:emanuelepicariello97@gmail.com)
