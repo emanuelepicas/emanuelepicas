@@ -8,11 +8,11 @@
 ***Burp Suite Certified Practitioner (BSCP)*** <br />
 ***eLearnSecurity Web Application Application Tester (eWPT)*** <br />
 ***eLearnSecurity Web Application Application Tester eXtreme (eWPTx)*** <br />
-***Red Hat Certified System Administrator (RHCSA)*** <br/> <br/>
+***Red Hat Certified System Administrator (RHCSA)*** <br/>
 ***Certified Red Team Operator (CRTO)*** <br/> <br/>
 
 * 🌍 Actually I'm based in the Netherlands
-* ✉  You can contact me at [emanuelepicariello97@gmail.com](mailto:emanuelepicariello97@gmail.com)
+* ✉  You can contact me at [info@emanuelepicariello.com](mailto:info@emanuelepicariello.com)
 * 🚀  I'm currently working on [Various topic related to Security / Pentesting / How to build up a decent YouTube Channel](https://www.youtube.com/@emanuelepicariello)
 * 🧠  I'm learning Offensive Security, through work, practice, courses and certifications
 * ⚡  Trying to find the best journey to become a worldwide professional Nation State Actor
