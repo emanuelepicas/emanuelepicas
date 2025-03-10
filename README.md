@@ -15,4 +15,3 @@
 * ✉  You can contact me at [info@emanuelepicariello.com](mailto:info@emanuelepicariello.com)
 * 🚀  I'm currently working on [How to build up a decent YouTube Channel](https://www.youtube.com/@emanuelepicariello)
 * 🧠  I'm learning Offensive Security, through work, practice, courses and certifications
-* ⚡  Trying to find the best journey to become a worldwide professional Nation State Actor
