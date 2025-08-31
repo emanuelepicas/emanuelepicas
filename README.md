@@ -11,7 +11,6 @@
 ***Red Hat Certified System Administrator (RHCSA)*** <br/>
 ***Certified Red Team Operator (CRTO)*** <br/> <br/>
 
-* 🌍 Actually I'm based in the Netherlands
+* 🌍 Actually I'm based in the Estonia
 * ✉  You can contact me at [info@emanuelepicariello.com](mailto:info@emanuelepicariello.com)
-* 🚀  I'm currently working on [How to build up a decent YouTube Channel](https://www.youtube.com/@emanuelepicariello)
 * 🧠  I'm learning Offensive Security, through work, practice, courses and certifications
